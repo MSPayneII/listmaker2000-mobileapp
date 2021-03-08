@@ -11,11 +11,6 @@ Practice working with CRUD and Firebase.
 Connet Listmaker 2000 to connect to Firebase, so that all changes made in the app are made persistent across launches of the app.
 
 
-## Notes
-* Be sure to show that the effects of all types of data modification (create, update, delete) persist across app launches.
-* :exclamation: You don't need to show the Firebase console in your video as the one in Demo Videos. Showing just your phone screen will be adequate.
-
-
 ## What it does
 | No. | Requirement  | 
 | --- | ------------- | 
